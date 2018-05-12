@@ -1,0 +1,48 @@
+_repo: Willem-de-Zwijger-Prins-van-Oranje_28868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Isings, J. H.
+    alias: Isings, Johan Herman
+    birthdate: 1884
+    deathdate: 1977
+    gutenberg_agent_id: '33560'
+    url: http://www.gutenberg.org/2009/agents/33560
+  translator:
+    agent_name: Nijhoff, D. C. (Dirk Christiaan)
+    alias: Nijhoff, Dirk Christiaan
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '33559'
+    url: http://www.gutenberg.org/2009/agents/33559
+covers:
+- cover_type: archival
+  image_path: 28868-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Putnam, Ruth
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '5550'
+    url: http://www.gutenberg.org/2009/agents/5550
+  editor:
+    agent_name: Blaauw, August Hendrik Pieter
+    aliases:
+    - Blaauw, A.H.P.
+    - Blaauw, A. H. P.
+    gutenberg_agent_id: '32990'
+    url: http://www.gutenberg.org/2009/agents/32990
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28868'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William I, Prince of Orange, 1533-1584'
+- !lcc 'DH'
+title: Willem de Zwijger, Prins van Oranje
+url: http://www.gutenberg.org/ebooks/28868
