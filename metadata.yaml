@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '32990'
     url: http://www.gutenberg.org/2009/agents/32990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28868#Willem-de-Zwijger-Prins-van-Oranje
 gutenberg_issued: '2009-05-18'
 gutenberg_type: Text
 identifiers:
